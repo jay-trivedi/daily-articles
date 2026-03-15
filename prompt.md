@@ -1,0 +1,1 @@
+/home/ubuntu/jay/daily-articles/generate-article.md

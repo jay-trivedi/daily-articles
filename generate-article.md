@@ -26,4 +26,4 @@ Do NOT repeat recent topics — check ~/jay/daily-articles/ for existing article
 3. Write the article
 4. Save as ~/jay/daily-articles/YYYY-MM-DD-slug.md (today's date, short kebab-case slug)
 5. cd ~/jay/daily-articles && git add the new file && git commit -m "article: <title>" && git push
-6. Output the full article text (this gets sent to Telegram, format nicely with markdown)
+6. Output ONLY a short teaser (2-3 sentences max) with the title and a hook that makes Jay want to read the full article. This gets sent to Telegram — the full article is in the file.
